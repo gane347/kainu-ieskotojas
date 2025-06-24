@@ -1,0 +1,11 @@
+input_file="C:\Users\Agne\Documents\programavimas\priceFromUrl\LIST.xlsx"
+output_file="C:\Users\Agne\Documents\programavimas\priceFromUrl\LIST1.xlsx"
+column_from=32
+column_to=32
+column_url=4
+column_old_price=5
+column_new_price=6
+captcha=False
+search=True
+compare=True
+write_to_other_file=True

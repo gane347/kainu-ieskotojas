@@ -1,0 +1,10 @@
+C:\Users\Agne\Documents\priceFromUrl\priceFromUrl\bin\Debug\priceFromUrl.exe.config
+C:\Users\Agne\Documents\priceFromUrl\priceFromUrl\bin\Debug\priceFromUrl.exe
+C:\Users\Agne\Documents\priceFromUrl\priceFromUrl\bin\Debug\priceFromUrl.pdb
+C:\Users\Agne\Documents\priceFromUrl\priceFromUrl\obj\Debug\priceFromUrl.csproj.AssemblyReference.cache
+C:\Users\Agne\Documents\priceFromUrl\priceFromUrl\obj\Debug\priceFromUrl.Form1.resources
+C:\Users\Agne\Documents\priceFromUrl\priceFromUrl\obj\Debug\priceFromUrl.Properties.Resources.resources
+C:\Users\Agne\Documents\priceFromUrl\priceFromUrl\obj\Debug\priceFromUrl.csproj.GenerateResource.cache
+C:\Users\Agne\Documents\priceFromUrl\priceFromUrl\obj\Debug\priceFromUrl.csproj.CoreCompileInputs.cache
+C:\Users\Agne\Documents\priceFromUrl\priceFromUrl\obj\Debug\priceFromUrl.exe
+C:\Users\Agne\Documents\priceFromUrl\priceFromUrl\obj\Debug\priceFromUrl.pdb

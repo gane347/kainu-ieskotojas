@@ -1,0 +1,11 @@
+input_file=""
+output_file=""
+column_from=1
+column_to=999
+column_url=4
+column_old_price=5
+column_new_price=6
+captcha=False
+search=True
+compare=True
+write_to_other_file=True
